@@ -42,3 +42,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 For questions or feedback, please open an issue in the repository or contact the author directly.
+
+Tableau: https://public.tableau.com/app/profile/raphael.muthenya/viz/DS-Aviation-Project/Dashboard1
+LinkedIn: https://www.linkedin.com/in/raphael-muthenya-1a3069245/
